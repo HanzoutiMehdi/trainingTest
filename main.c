@@ -16,7 +16,8 @@ void main()
     
     /*user2: add y++*/
     y++;
-
+    /* user2 add z++*/
+    z++;
 
 
     return;
