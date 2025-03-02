@@ -18,6 +18,8 @@ void main()
     /*user1: add this line */
     x++;
 
+    /*user 2 add x2++*/
+    x2++;
     
     return;
 }
