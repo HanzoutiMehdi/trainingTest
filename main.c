@@ -14,5 +14,10 @@ void main()
     /*add new function  */
     /*add new function 2 for making root square*/
     
+    /*user2: add y++*/
+    y++;
+
+
+
     return;
 }
